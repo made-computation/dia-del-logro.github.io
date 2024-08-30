@@ -20,6 +20,11 @@
   margin-bottom: 15px; /* Espacio entre la imagen y el texto */
 }
 
+
+.service-img  img {
+  object-fit: fill;
+}
+
 .service-item h4,
 .service-item p {
   margin: 0; /* Elimina márgenes adicionales */
