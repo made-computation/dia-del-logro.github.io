@@ -13,10 +13,10 @@
 
 .service-img {
   width: 100%; /* Imagen responsiva */
-  min-height: 500px;
-  max-height: 500px;
-  max-width: 500px; /* Ancho máximo fijo */
-  min-width: 500px; /* Ancho máximo fijo */
+  min-height: 300px;
+  max-height: 300px;
+  max-width: 300px; /* Ancho máximo fijo */
+  min-width: 300px; /* Ancho máximo fijo */
   margin-bottom: 15px; /* Espacio entre la imagen y el texto */
 }
 
