@@ -1,0 +1,26 @@
+.logo img {
+  width: 250px !important;
+  height: 100px !important;
+}
+
+.slide-inner {
+  background-color: rgba(0, 0, 0, 0.5); /* Negro con 50% de opacidad */
+}
+
+.service-item {
+  text-align: center; /* Centra la imagen y el texto */
+}
+
+.service-img {
+  width: 100%; /* Imagen responsiva */
+  min-height: 500px;
+  max-height: 500px;
+  max-width: 500px; /* Ancho máximo fijo */
+  min-width: 500px; /* Ancho máximo fijo */
+  margin-bottom: 15px; /* Espacio entre la imagen y el texto */
+}
+
+.service-item h4,
+.service-item p {
+  margin: 0; /* Elimina márgenes adicionales */
+}
